@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pharyenatra.github.io/sitemap
+Sitemap: https://pharyenatra.github.io/app/sitemap
+Sitemap: https://pharyenatra.github.io/assets/sitemap
+Sitemap: https://pharyenatra.github.io/css/sitemap
+Sitemap: https://pharyenatra.github.io/includes/sitemap
+Sitemap: https://pharyenatra.github.io/item/sitemap
+Sitemap: https://pharyenatra.github.io/src/sitemap
